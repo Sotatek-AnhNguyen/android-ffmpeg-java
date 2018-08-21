@@ -674,7 +674,7 @@ out.avi – create this output file. Change it as you like, for example using an
 			cmd.add(String.format(Locale.US,"%f",dValue));
 			
 			//cmd.add("00:00:" + String.format(Locale.US,"%f",mediaIn.duration));
-			
+			//cmd
 			
 		}
 		
